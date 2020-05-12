@@ -1,0 +1,2171 @@
+,BSSID,SSID,zone,subzone,dBm_Signal,Channel,Crypto
+0,8c:e1:17:d0:64:0e,MASMOVIL_2G_HJsC,1,1,-88,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,a0:8e:78:71:bf:8e,vodafoneBF88,1,1,-83,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,62:8d:36:d1:75:61,Invitado-755E,1,1,-65,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,1,1,-64,1,{'WEP'}
+0,e4:ab:89:34:6a:6c,MOVISTAR_6A6B,1,1,-82,1,{'WPA2/PSK'}
+0,e4:ca:12:95:53:38,MIWIFI_2G_dEw3,1,1,-84,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,1,1,-76,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,1,1,-81,1,{'WEP'}
+0,a0:8e:78:71:bf:8e,vodafoneBF88,1,1,-82,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,1,1,-64,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,1,1,-65,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,1,1,-63,1,{'WEP'}
+0,e4:ca:12:95:53:38,MIWIFI_2G_dEw3,1,1,-86,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,1,1,-76,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,1,1,-63,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,1,1,-64,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,1,1,-64,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,1,1,-80,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,1,1,-63,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,1,1,-65,1,{'WEP'}
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,1,1,-91,4,"{'WPA/PSK', 'WPA2/PSK'}"
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,1,1,-60,5,{'WEP'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,1,1,-85,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,1,1,-62,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,1,1,-76,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,1,1,-75,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,1,1,-63,5,{'WEP'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,1,1,-72,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,1,1,-63,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,1,1,-78,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,1,1,-78,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,1,1,-64,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,1,1,-73,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,1,1,-73,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,1,1,-59,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,1,1,-84,6,{'WPA2/PSK'}
+0,d8:fb:5e:01:0c:6e,MOVISTAR_0C6D,1,1,-88,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,1,1,-69,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,1,1,-59,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,1,1,-80,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,1,1,-59,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,1,1,-69,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,1,1,-59,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,1,1,-83,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,1,1,-69,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,1,1,-60,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,1,1,-83,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,1,1,-69,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,1,1,-60,6,{'OPN'}
+0,dc:53:7c:08:b0:88,ONO8AC2,1,1,-88,9,"{'WPA/PSK', 'WPA2/PSK'}"
+0,62:8d:36:6d:96:f3,MiFibra-96EF-24G,1,1,-87,9,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,1,1,-84,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,1,1,-83,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,1,1,-85,10,{'WEP'}
+0,a8:9a:93:67:68:c0,MiFibra-68C0,1,1,-85,11,{'WEP'}
+0,a4:08:f5:db:44:06,vodafone4400,1,1,-82,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,1,1,-36,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,04:a2:22:1e:74:16,MiFibra-7414,1,1,-87,11,{'WEP'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,1,1,-68,11,{'WPA2/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,1,1,-51,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,a4:08:f5:db:44:06,vodafone4400,1,1,-84,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,f4:06:8d:8c:ab:b1,devolo-bb1,1,1,-69,11,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,1,1,-39,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,1,1,-75,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,1,1,-74,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,1,1,-39,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,1,1,-40,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,1,1,-39,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,1,1,-39,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,1,1,-39,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ec:f4:51:55:0a:a2,,1,1,-81,52,{'WPA2/PSK'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,1,2,-79,1,{'WEP'}
+0,8c:e1:17:d0:64:0e,MASMOVIL_2G_HJsC,1,2,-78,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,a0:8e:78:71:bf:8e,vodafoneBF88,1,2,-70,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,62:8d:36:d1:75:61,Invitado-755E,1,2,-69,1,{'WEP'}
+0,10:62:d0:8e:ab:9e,LowiAB99,1,2,-86,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,1,2,-79,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,1,2,-78,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,1,2,-75,1,{'WEP'}
+0,48:8d:36:16:94:51,MiFibra-944F,1,2,-81,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,1,2,-79,1,{'WEP'}
+0,a0:8e:78:71:bf:8e,vodafoneBF88,1,2,-72,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,1,2,-69,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,1,2,-69,1,{'WEP'}
+0,48:8d:36:16:94:51,MiFibra-944F,1,2,-77,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,1,2,-77,1,{'WEP'}
+0,a0:8e:78:71:bf:8e,vodafoneBF88,1,2,-70,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,62:8d:36:d1:75:61,Invitado-755E,1,2,-68,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,1,2,-74,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,1,2,-77,1,{'WEP'}
+0,a0:8e:78:71:bf:8e,vodafoneBF88,1,2,-71,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,1,2,-68,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,1,2,-61,1,{'WEP'}
+0,a0:8e:78:71:bf:8e,vodafoneBF88,1,2,-72,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,a0:8e:78:71:bf:8e,vodafoneBF88,1,2,-73,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,1,2,-73,5,{'WPA2/PSK'}
+0,44:ff:ba:16:0d:4d,MIWIFI_2G_T4G6,1,2,-81,4,{'WPA/PSK'}
+0,44:ff:ba:16:0d:4d,MIWIFI_2G_T4G6,1,2,-82,4,{'WPA/PSK'}
+0,44:ff:ba:16:0d:4d,MIWIFI_2G_T4G6,1,2,-82,4,{'WPA/PSK'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,1,2,-74,5,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,1,2,-60,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,1,2,-62,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,1,2,-78,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,1,2,-78,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,1,2,-64,5,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,1,2,-64,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,1,2,-75,5,{'WPA2/PSK'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,1,2,-71,5,{'WPA2/PSK'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,1,2,-83,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,1,2,-64,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,1,2,-73,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,1,2,-76,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,1,2,-71,5,{'WPA2/PSK'}
+0,9c:6f:52:d1:ce:23,MIWIFI_2G_XKS4,1,2,-86,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,1,2,-65,6,{'WEP'}
+0,3c:17:10:53:2c:88,MiFibra-2C88,1,2,-82,6,{'WPA2/PSK'}
+0,3c:17:10:53:2c:8a,Invitado-2C88,1,2,-84,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,1,2,-61,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,1,2,-75,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,1,2,-65,6,{'WEP'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,1,2,-74,5,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,1,2,-60,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,1,2,-63,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,1,2,-61,6,{'OPN'}
+0,08:95:2a:de:55:5a,EUDAIMONIA,1,2,-77,7,"{'WPA2/PSK', 'WPA/PSK'}"
+0,08:95:2a:de:55:5a,EUDAIMONIA,1,2,-80,7,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:6d:96:f1,MiFibra-96EF,1,2,-82,9,{'WEP'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,1,2,-67,11,{'WPA2/PSK'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,1,2,-77,10,{'WEP'}
+0,98:97:d1:49:4c:bd,MOVISTAR_4CBC,1,2,-80,11,{'WPA2/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,1,2,-43,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,04:a2:22:1e:74:16,MiFibra-7414,1,2,-75,11,{'WEP'}
+0,50:7e:5d:67:53:ed,Orange-53EB,1,2,-43,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,1,2,-78,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,1,2,-43,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,1,2,-41,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,1,2,-40,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,1,2,-40,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,1,2,-39,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ec:f4:51:55:0a:a2,,1,2,-80,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,1,2,-80,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,1,2,-79,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,1,2,-78,52,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,1,-59,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,1,-59,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,1,-62,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,0,1,-76,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,1,-58,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,1,-58,1,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,0,1,-76,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,1,-76,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,1,-62,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,0,1,-81,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,0,1,-75,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,1,-56,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,1,-57,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,1,-76,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,1,-63,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,1,-59,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,1,-58,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,1,-77,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,1,-63,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,0,1,-78,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,1,-58,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,1,-58,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,1,-78,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,1,-62,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,1,-58,1,{'WEP'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,0,1,-82,5,{'WPA2/PSK'}
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,0,1,-89,4,"{'WPA/PSK', 'WPA2/PSK'}"
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,1,-61,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,0,1,-56,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,0,1,-56,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,1,-60,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,0,1,-51,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,0,1,-51,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,1,-59,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,0,1,-56,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,0,1,-56,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,0,1,-80,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,1,-59,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,0,1,-52,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,0,1,-51,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,1,-60,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,0,1,-57,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,0,1,-56,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,0,1,-81,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,1,-60,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,0,1,-78,6,{'WEP'}
+0,3c:17:10:53:2c:8a,Invitado-2C88,0,1,-85,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,0,1,-66,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,1,-60,5,{'WEP'}
+0,3c:17:10:53:2c:88,MiFibra-2C88,0,1,-84,6,{'WPA2/PSK'}
+0,3c:17:10:53:2c:8a,Invitado-2C88,0,1,-84,6,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,0,1,-88,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,0,1,-65,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,0,1,-82,6,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,1,-60,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,0,1,-79,6,{'WEP'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,0,1,-87,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,0,1,-64,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,0,1,-80,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,0,1,-66,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,1,-60,5,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,0,1,-66,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,0,1,-82,6,{'WPA2/PSK'}
+0,62:8d:36:6d:96:f3,MiFibra-96EF-24G,0,1,-87,9,{'WEP'}
+0,62:8d:36:6d:96:f3,MiFibra-96EF-24G,0,1,-87,9,{'WEP'}
+0,48:8d:36:6d:96:f1,MiFibra-96EF,0,1,-88,9,{'WEP'}
+0,48:8d:36:6d:96:f1,MiFibra-96EF,0,1,-82,9,{'WEP'}
+0,62:8d:36:6d:96:f3,MiFibra-96EF-24G,0,1,-86,9,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,0,1,-75,10,{'WEP'}
+0,34:57:60:94:8b:42,MOVISTAR_8B41,0,1,-81,11,{'WPA2/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,0,1,-73,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,0,1,-90,36,{'WPA2/PSK'}
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,0,1,-86,36,{'WPA2/PSK'}
+0,26:57:60:94:8b:4a,MOVISTAR_8B41,0,1,-88,36,{'WPA2/PSK'}
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,0,1,-87,36,{'WPA2/PSK'}
+0,26:57:60:94:8b:4a,MOVISTAR_8B41,0,1,-88,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,0,1,-90,36,{'WPA2/PSK'}
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,0,1,-87,36,{'WPA2/PSK'}
+0,26:57:60:94:8b:4a,MOVISTAR_8B41,0,1,-87,36,{'WPA2/PSK'}
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,0,1,-89,36,{'WPA2/PSK'}
+0,26:57:60:94:8b:4a,MOVISTAR_8B41,0,1,-87,36,{'WPA2/PSK'}
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,0,1,-88,36,{'WPA2/PSK'}
+0,26:57:60:94:8b:4a,MOVISTAR_8B41,0,1,-87,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,1,-68,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,1,-68,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,1,-68,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,1,-68,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,1,-67,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,0,1,-91,56,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,0,1,-90,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,0,1,-89,56,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,0,1,-90,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,0,1,-93,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,0,1,-91,56,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,0,1,-91,56,{'WPA2/PSK'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,2,-71,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,2,-66,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,2,-49,1,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,0,2,-86,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,2,-70,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,2,-66,1,{'WEP'}
+0,a0:8e:78:71:bf:8e,vodafoneBF88,0,2,-85,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,0,2,-49,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,2,-49,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,2,-70,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,2,-66,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,2,-49,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,2,-49,1,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,0,2,-82,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,2,-69,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,2,-65,1,{'WEP'}
+0,a0:8e:78:71:bf:8e,vodafoneBF88,0,2,-83,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,0,2,-49,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,2,-49,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,2,-71,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,2,-66,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,2,-49,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,2,-48,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,2,-72,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,2,-51,5,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,2,-50,5,{'WEP'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,0,2,-85,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,2,-50,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,0,2,-67,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,0,2,-68,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,0,2,-84,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,2,-51,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,0,2,-68,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,0,2,-69,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,2,-52,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,0,2,-68,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,0,2,-66,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,0,2,-84,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,2,-52,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,0,2,-69,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,0,2,-69,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,0,2,-84,5,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,0,2,-83,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,0,2,-67,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,0,2,-81,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,0,2,-68,6,{'WEP'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,0,2,-80,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,0,2,-69,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,0,2,-69,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,0,2,-67,6,{'OPN'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,0,2,-71,11,{'WPA2/PSK'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,0,2,-79,10,{'WEP'}
+0,50:7e:5d:67:53:ed,Orange-53EB,0,2,-64,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,0,2,-82,10,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,0,2,-71,11,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,0,2,-75,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,0,2,-78,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,0,2,-80,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,2,-57,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,2,-59,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,2,-58,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,2,-58,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,2,-57,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ec:f4:51:55:0a:a2,,0,2,-89,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,0,2,-88,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,0,2,-87,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,0,2,-86,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,0,2,-86,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,0,2,-90,52,{'WPA2/PSK'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,3,-72,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,0,3,-82,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,3,-54,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,3,-54,1,{'WEP'}
+0,48:8d:36:16:94:51,MiFibra-944F,0,3,-86,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,3,-74,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,0,3,-87,1,{'WEP'}
+0,f8:8e:85:68:66:ac,JAZZTEL_l0l3,0,3,-83,1,{'WPA/PSK'}
+0,a0:8e:78:71:bf:8e,vodafoneBF88,0,3,-77,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,0,3,-55,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,3,-55,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,3,-73,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,3,-75,1,{'WEP'}
+0,a8:d3:f7:16:61:2c,Orange-612A,0,3,-82,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,3,-56,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,3,-56,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,3,-72,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,3,-75,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,0,3,-53,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,0,3,-53,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,0,3,-74,1,{'WEP'}
+0,a0:8e:78:71:bf:8e,vodafoneBF88,0,3,-77,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,04:a2:22:1e:1a:16,MiFibra-1A14,0,3,-74,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,3,-63,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,0,3,-80,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,0,3,-62,5,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,0,3,-61,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,0,3,-68,6,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,0,3,-81,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,0,3,-83,10,{'WEP'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,0,3,-70,11,{'WPA2/PSK'}
+0,98:97:d1:49:4c:bd,MOVISTAR_4CBC,0,3,-88,11,{'WPA2/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,0,3,-60,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,a4:08:f5:db:44:06,vodafone4400,0,3,-92,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,34:57:60:94:8b:42,MOVISTAR_8B41,0,3,-79,11,{'WPA2/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,0,3,-60,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,50:7e:5d:67:53:ed,Orange-53EB,0,3,-60,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,50:7e:5d:67:53:ed,Orange-53EB,0,3,-60,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,0,3,-78,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,0,3,-79,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,3,-53,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,3,-53,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,3,-53,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,3,-53,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,0,3,-53,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ec:f4:51:55:0a:a2,,0,3,-83,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,0,3,-83,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,0,3,-83,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,0,3,-83,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,0,3,-83,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,0,3,-83,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,0,3,-83,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,0,3,-83,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,0,3,-82,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,0,3,-82,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,0,3,-83,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,0,3,-83,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,0,3,-84,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,0,3,-83,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,0,3,-83,52,{'WPA2/PSK'}
+0,8c:e1:17:d0:64:0e,MASMOVIL_2G_HJsC,2,1,-80,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,62:8d:36:d1:75:61,Invitado-755E,2,1,-52,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,2,1,-74,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,2,1,-75,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,2,1,-76,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,2,1,-83,1,{'WEP'}
+0,8c:e1:17:d0:64:0e,MASMOVIL_2G_HJsC,2,1,-86,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,a0:8e:78:71:bf:8e,vodafoneBF88,2,1,-85,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,2,1,-56,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,2,1,-56,1,{'WEP'}
+0,e4:ab:89:34:6a:6c,MOVISTAR_6A6B,2,1,-81,1,{'WPA2/PSK'}
+0,8c:e1:17:d0:64:0e,MASMOVIL_2G_HJsC,2,1,-83,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,04:a2:22:1e:1a:16,MiFibra-1A14,2,1,-76,1,{'WEP'}
+0,e4:ab:89:34:6a:6c,MOVISTAR_6A6B,2,1,-68,1,{'WPA2/PSK'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,2,1,-76,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,2,1,-57,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,2,1,-57,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,2,1,-74,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,2,1,-78,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,2,1,-60,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,2,1,-60,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,2,1,-74,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,2,1,-78,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,2,1,-66,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,2,1,-65,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,2,1,-66,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,2,1,-63,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,2,1,-62,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,2,1,-64,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,1,-58,5,{'WEP'}
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,2,1,-88,4,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,2,1,-63,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,1,-61,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,2,1,-71,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,2,1,-71,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,2,1,-81,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,1,-60,5,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,1,-59,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,2,1,-73,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,2,1,-72,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,1,-59,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,2,1,-84,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,2,1,-82,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,2,1,-82,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,1,-57,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,2,1,-72,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,2,1,-71,5,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,2,1,-81,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,2,1,-70,6,{'WEP'}
+0,44:d9:e7:03:0b:81,MUKIACDAIKIN,2,1,-83,6,{'WPA2/PSK'}
+0,84:aa:9c:2c:19:21,MOVISTAR_1920,2,1,-84,6,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,2,1,-87,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,2,1,-63,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,2,1,-79,6,{'WPA2/PSK'}
+0,3c:17:10:53:2c:8a,Invitado-2C88,2,1,-89,6,{'WPA2/PSK'}
+0,56:d9:e7:03:0b:81,,2,1,-84,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,2,1,-63,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,2,1,-82,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,2,1,-69,6,{'WEP'}
+0,3c:17:10:53:2c:88,MiFibra-2C88,2,1,-88,6,{'WPA2/PSK'}
+0,3c:17:10:53:2c:8a,Invitado-2C88,2,1,-87,6,{'WPA2/PSK'}
+0,84:aa:9c:2c:19:21,MOVISTAR_1920,2,1,-85,6,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,2,1,-86,6,{'WPA2/PSK'}
+0,56:d9:e7:03:0b:81,,2,1,-84,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,2,1,-62,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,2,1,-81,6,{'WPA2/PSK'}
+0,c8:b4:22:35:b5:2f,MOVISTAR_B520,2,1,-82,6,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,2,1,-69,6,{'WEP'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,2,1,-81,6,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,1,-58,5,{'WEP'}
+0,62:8d:36:6d:96:f3,MiFibra-96EF-24G,2,1,-86,9,{'WEP'}
+0,48:8d:36:6d:96:f1,MiFibra-96EF,2,1,-85,9,{'WEP'}
+0,62:8d:36:6d:96:f3,MiFibra-96EF-24G,2,1,-79,9,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,2,1,-87,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,2,1,-81,10,{'WEP'}
+0,50:7e:5d:67:53:ed,Orange-53EB,2,1,-49,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,2,1,-82,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,2,1,-81,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,2,1,-81,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,2,1,-45,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,2,1,-45,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,2,1,-45,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,2,1,-45,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,2,1,-45,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ec:f4:51:55:0a:a2,,2,1,-86,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,2,1,-86,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,2,1,-86,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,2,1,-85,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,2,1,-86,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,2,1,-87,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,2,1,-85,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,2,1,-85,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,2,1,-85,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,2,1,-85,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,2,1,-85,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,2,1,-85,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,2,1,-86,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,2,1,-86,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,2,1,-86,52,{'WPA2/PSK'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,2,1,-77,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,2,2,-77,1,{'WEP'}
+0,8c:e1:17:d0:64:0e,MASMOVIL_2G_HJsC,2,2,-81,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,04:a2:22:1e:1a:16,MiFibra-1A14,2,2,-73,1,{'WEP'}
+0,1c:b0:44:15:1f:78,MOVISTAR_1F77,2,2,-91,1,{'WPA2/PSK'}
+0,e4:ab:89:34:6a:6c,MOVISTAR_6A6B,2,2,-84,1,{'WPA2/PSK'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,2,2,-72,1,{'WEP'}
+0,e4:ab:89:34:6a:6c,MOVISTAR_6A6B,2,2,-84,1,{'WPA2/PSK'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,2,2,-80,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,2,2,-76,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,2,2,-80,1,{'WEP'}
+0,8c:e1:17:d0:64:0e,MASMOVIL_2G_HJsC,2,2,-85,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,62:8d:36:d1:75:61,Invitado-755E,2,2,-67,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,2,2,-72,1,{'WEP'}
+0,e4:ab:89:34:6a:6c,MOVISTAR_6A6B,2,2,-86,1,{'WPA2/PSK'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,2,2,-74,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,2,2,-79,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,2,2,-66,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,2,2,-73,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,2,2,-72,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,2,2,-75,1,{'WEP'}
+0,44:ff:ba:16:0d:4d,MIWIFI_2G_T4G6,2,2,-83,4,{'WPA/PSK'}
+0,44:ff:ba:16:0d:4d,MIWIFI_2G_T4G6,2,2,-82,4,{'WPA/PSK'}
+0,44:ff:ba:16:0d:4d,MIWIFI_2G_T4G6,2,2,-83,4,{'WPA/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,2,-68,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,2,2,-76,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,2,2,-75,5,{'OPN'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,2,2,-83,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,2,2,-83,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,2,2,-85,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,2,-68,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,2,2,-75,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,2,2,-76,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,2,2,-83,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,2,2,-81,5,{'OPN'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,2,2,-78,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,2,2,-77,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,2,2,-82,5,{'WPA2/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,2,2,-79,6,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,2,-68,5,{'WEP'}
+0,3c:17:10:53:2c:88,MiFibra-2C88,2,2,-83,6,{'WPA2/PSK'}
+0,3c:17:10:53:2c:8a,Invitado-2C88,2,2,-83,6,{'WPA2/PSK'}
+0,d8:fb:5e:01:0c:6e,MOVISTAR_0C6D,2,2,-89,6,{'WPA2/PSK'}
+0,3c:17:10:53:2c:88,MiFibra-2C88,2,2,-81,6,{'WPA2/PSK'}
+0,3c:17:10:53:2c:8a,Invitado-2C88,2,2,-83,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,2,2,-59,6,{'OPN'}
+0,ec:f4:51:56:33:e9,MiFibra-33E7,2,2,-82,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,2,2,-71,6,{'WEP'}
+0,3c:17:10:53:2c:88,MiFibra-2C88,2,2,-81,6,{'WPA2/PSK'}
+0,3c:17:10:53:2c:8a,Invitado-2C88,2,2,-82,6,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,2,-68,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,2,2,-71,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,2,2,-59,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,2,2,-68,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,2,2,-71,6,{'WEP'}
+0,3c:17:10:53:2c:8a,Invitado-2C88,2,2,-85,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,2,2,-60,6,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,2,2,-61,6,{'OPN'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,2,2,-79,10,{'WEP'}
+0,50:7e:5d:67:53:ed,Orange-53EB,2,2,-50,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,2,2,-80,10,{'WEP'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,2,2,-71,11,{'WPA2/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,2,2,-50,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,2,2,-78,10,{'WEP'}
+0,50:7e:5d:67:53:ed,Orange-53EB,2,2,-50,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,2,2,-77,10,{'WEP'}
+0,50:7e:5d:67:53:ed,Orange-53EB,2,2,-51,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,2,2,-80,10,{'WEP'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,2,2,-71,11,{'WPA2/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,2,2,-50,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,2,2,-49,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,2,2,-84,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,2,2,-47,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,2,2,-47,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,2,2,-47,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ec:f4:51:55:0a:a2,,2,2,-80,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,2,2,-83,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,2,2,-84,52,{'WPA2/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,3,1,-77,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,1,-50,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,1,-51,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,1,-65,1,{'WEP'}
+0,d0:57:94:78:8c:26,vodafone8C20,3,1,-84,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,1,-72,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,3,1,-84,1,{'WPA2/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,3,1,-80,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,1,-51,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,1,-51,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,1,-64,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,1,-73,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,3,1,-81,1,{'WPA2/PSK'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,3,1,-81,1,{'WPA/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,1,-51,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,1,-52,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,1,-65,1,{'WEP'}
+0,e4:ca:12:95:53:38,MIWIFI_2G_dEw3,3,1,-85,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,1,-73,1,{'WEP'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,3,1,-80,1,{'WPA/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,3,1,-83,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,1,-54,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,1,-56,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,1,-64,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,1,-71,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,1,-59,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,1,-59,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,1,-62,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,1,-70,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,1,-76,1,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,1,-79,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,1,-57,5,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,1,-52,5,{'WEP'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,1,-82,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,1,-55,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,1,-52,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,1,-70,6,{'WEP'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,3,1,-90,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,1,-53,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,1,-82,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,1,-84,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,3,1,-87,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,1,-53,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,1,-68,6,{'WEP'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,1,-78,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,3,1,-89,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,1,-54,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,1,-85,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,1,-85,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,3,1,-84,5,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,1,-66,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,1,-55,6,{'OPN'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,3,1,-83,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,1,-55,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,1,-66,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,1,-53,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,1,-67,6,{'WEP'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,3,1,-82,N/A,N/A
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,3,1,-81,9,{'WPA/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,3,1,-61,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,50:7e:5d:67:53:ed,Orange-53EB,3,1,-60,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,f4:06:8d:8c:ab:b1,devolo-bb1,3,1,-68,11,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,3,1,-67,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,3,1,-65,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,1,-55,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,1,-54,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,1,-56,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,1,-55,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,3,1,-90,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,1,-54,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ec:f4:51:55:0a:a2,,3,1,-77,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,3,1,-77,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,1,-78,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,3,1,-77,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,3,1,-77,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,1,-77,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,3,1,-80,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,3,1,-79,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,1,-79,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,3,1,-81,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,3,1,-81,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,1,-82,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,3,1,-78,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,3,1,-78,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,1,-78,52,{'WPA2/PSK'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,3,2,-82,1,{'WPA/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,3,2,-77,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,2,-58,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,2,-57,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,2,-62,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,3,2,-86,1,{'WPA2/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,3,2,-78,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,2,-60,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,2,-59,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,2,-60,1,{'WEP'}
+0,d0:57:94:78:8c:26,vodafone8C20,3,2,-82,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,2,-71,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,3,2,-85,1,{'WPA2/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,3,2,-77,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,2,-61,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,2,-61,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,2,-59,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,2,-75,1,{'WEP'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,3,2,-81,1,{'WPA/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,3,2,-78,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,2,-66,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,2,-66,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,2,-61,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,2,-56,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,2,-65,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,2,-76,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,2,-58,1,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,2,-79,5,{'WPA2/PSK'}
+0,44:ff:ba:16:0d:4d,MIWIFI_2G_T4G6,3,2,-88,4,{'WPA/PSK'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,2,-80,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,2,-78,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,3,2,-88,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,2,-55,5,{'WEP'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,2,-85,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,2,-55,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,2,-78,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,2,-78,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,2,-55,5,{'WEP'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,2,-85,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,2,-55,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,2,-77,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,2,-78,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,2,-54,5,{'WEP'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,3,2,-85,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,2,-53,6,{'OPN'}
+0,f8:8e:85:dc:97:21,MOVISTAR_9720,3,2,-89,6,{'WPA/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,3,2,-85,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,3,2,-90,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,3,2,-83,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,2,-53,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,3,2,-87,6,{'WPA2/PSK'}
+0,d8:fb:5e:01:0c:6e,MOVISTAR_0C6D,3,2,-87,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,2,-56,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,2,-54,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,2,-54,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,2,-56,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,2,-54,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,2,-56,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,2,-54,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,2,-56,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,2,-57,6,{'OPN'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,3,2,-89,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,3,2,-87,9,{'WEP'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,3,2,-87,N/A,N/A
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,3,2,-55,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,50:7e:5d:67:53:ed,Orange-53EB,3,2,-57,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,3,2,-63,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,3,2,-63,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,2,-52,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,2,-52,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,2,-52,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,2,-52,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,2,-53,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e4:ca:12:95:53:38,MIWIFI_2G_dEw3,3,3,-82,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,3,-74,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,3,3,-84,1,{'WPA2/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,3,3,-81,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,3,-53,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,3,-66,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,3,3,-84,1,{'WPA2/PSK'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,3,3,-82,1,{'WPA/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,3,3,-85,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,3,-69,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,3,3,-86,1,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,3,-51,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,3,-51,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,3,-65,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,3,-72,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,3,-67,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,3,-72,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,3,-72,5,{'OPN'}
+0,7a:6f:52:d6:ea:05,MIWIFI_5G_K3fy,3,3,-85,4,{'WPA/PSK'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,3,-75,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,3,-74,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,3,-56,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,3,-83,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,3,-79,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,3,-53,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,3,-79,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,3,-79,5,{'OPN'}
+0,8c:0c:a3:37:e2:4c,MOVISTAR_E24C,3,3,-81,6,{'WPA/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,3,3,-84,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,3,-51,6,{'OPN'}
+0,bc:30:d9:78:a4:9e,MiFibra-A49C,3,3,-84,6,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,3,-61,6,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,3,-62,6,{'WEP'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,3,3,-85,9,{'WEP'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,3,3,-76,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,3,3,-82,9,{'WEP'}
+0,dc:53:7c:08:b0:88,ONO8AC2,3,3,-92,9,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,3,3,-75,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,3,3,-81,9,{'WPA2/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,3,3,-81,9,{'WEP'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,3,3,-58,11,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,3,3,-55,11,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,3,3,-56,11,{'WPA2/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,3,3,-64,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,f4:06:8d:8c:ab:b1,devolo-bb1,3,3,-54,11,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,3,3,-51,11,{'WPA2/PSK'}
+0,80:29:94:c2:5c:6c,vodafone5C67,3,3,-90,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,50:7e:5d:67:53:ed,Orange-53EB,3,3,-61,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,80:29:94:c2:5c:6c,vodafone5C67,3,3,-84,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,04:a2:22:1e:74:16,MiFibra-7414,3,3,-68,11,{'WEP'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,3,3,-56,11,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,3,3,-66,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,3,3,-69,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,3,-52,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,3,-53,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,3,-53,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,3,-53,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,3,-54,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ec:f4:51:55:0a:a2,,3,3,-69,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,3,3,-69,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,3,-69,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,3,3,-70,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,3,-67,52,{'WPA2/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,3,4,-84,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,4,-58,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,4,-60,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,4,-54,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,4,-74,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,3,4,-86,1,{'WPA2/PSK'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,3,4,-84,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,3,4,-82,1,{'WEP'}
+0,a8:d3:f7:16:61:2c,Orange-612A,3,4,-85,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,3,4,-58,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,3,4,-58,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,3,4,-54,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,3,4,-72,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,3,4,-78,1,{'WPA2/PSK'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,3,4,-84,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,3,4,-84,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,4,-56,5,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,4,-54,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,4,-57,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,4,-82,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,4,-81,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,4,-54,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,4,-57,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,4,-79,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,4,-79,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,3,4,-84,5,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,4,-54,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,4,-57,5,{'WEP'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,4,-81,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,3,4,-83,5,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,4,-55,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,4,-57,5,{'WEP'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,3,4,-84,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,3,4,-56,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,3,4,-80,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,3,4,-81,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,3,4,-84,5,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,3,4,-54,6,{'OPN'}
+0,f8:8e:85:dc:97:21,MOVISTAR_9720,3,4,-85,6,{'WPA/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,3,4,-90,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,4,-55,6,{'WEP'}
+0,c4:71:54:35:a4:60,Flybox_A460,3,4,-91,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,3,4,-56,6,{'WEP'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,3,4,-85,9,{'WEP'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,3,4,-85,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,3,4,-85,N/A,N/A
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,3,4,-88,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,3,4,-84,9,{'WEP'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,3,4,-85,9,{'WEP'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,3,4,-58,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,f4:06:8d:8c:ab:b1,devolo-bb1,3,4,-60,11,{'WPA2/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,3,4,-59,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,f4:06:8d:8c:ab:b1,devolo-bb1,3,4,-60,11,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,3,4,-60,11,{'WPA2/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,3,4,-65,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,3,4,-56,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,f4:06:8d:8c:ab:b1,devolo-bb1,3,4,-60,11,{'WPA2/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,3,4,-66,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,3,4,-56,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,50:7e:5d:67:53:ed,Orange-53EB,3,4,-65,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,50:7e:5d:67:53:ed,Orange-53EB,3,4,-66,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,3,4,-67,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,3,4,-67,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,4,-52,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,4,-52,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,4,-52,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,4,-52,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,3,4,-52,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ec:f4:51:55:0a:a2,,3,4,-72,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,3,4,-72,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,4,-72,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,3,4,-72,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,3,4,-72,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,4,-72,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,3,4,-72,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,3,4,-72,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,4,-72,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,3,4,-72,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,3,4,-72,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,4,-72,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,3,4,-72,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,3,4,-72,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,3,4,-72,52,{'WPA2/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,4,1,-83,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,1,-39,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,1,-46,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,4,1,-79,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,4,1,-60,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,4,1,-85,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,1,-37,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,1,-37,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,4,1,-75,1,{'WEP'}
+0,e4:ca:12:95:53:38,MIWIFI_2G_dEw3,4,1,-85,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,4,1,-60,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,4,1,-86,1,{'WEP'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,4,1,-83,1,{'WPA/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,4,1,-83,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,1,-37,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,1,-37,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,4,1,-75,1,{'WEP'}
+0,e4:ca:12:95:53:38,MIWIFI_2G_dEw3,4,1,-85,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,4,1,-60,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,4,1,-86,1,{'WEP'}
+0,a8:d3:f7:16:61:2c,Orange-612A,4,1,-81,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,1,-37,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,1,-38,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,4,1,-75,1,{'WEP'}
+0,e4:ca:12:95:53:38,MIWIFI_2G_dEw3,4,1,-84,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,4,1,-59,1,{'WEP'}
+0,a8:d3:f7:16:61:2c,Orange-612A,4,1,-82,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,1,-36,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,1,-37,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,4,1,-77,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,4,1,-59,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,1,-37,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,1,-37,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,1,-37,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,1,-37,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,1,-38,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,1,-51,5,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,1,-61,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,1,-50,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,4,1,-64,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,4,1,-63,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,1,-50,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,4,1,-78,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,4,1,-77,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,1,-52,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,4,1,-65,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,4,1,-65,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,1,-52,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,4,1,-78,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,4,1,-77,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,1,-53,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,4,1,-64,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,4,1,-65,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,1,-60,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,1,-52,5,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,4,1,-80,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,4,1,-85,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,1,-61,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,1,-53,5,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,4,1,-80,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,4,1,-87,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,1,-61,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,1,-53,5,{'WEP'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,4,1,-85,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,1,-60,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,1,-53,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,4,1,-80,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,4,1,-85,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,1,-60,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,1,-54,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,4,1,-81,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,4,1,-85,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,4,1,-86,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,1,-60,6,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,1,-61,6,{'OPN'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,4,1,-79,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,4,1,-78,9,{'WPA/PSK'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,4,1,-81,10,{'WEP'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,4,1,-78,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,4,1,-63,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,4,1,-90,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,4,1,-63,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,4,1,-63,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,4,1,-63,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,4,1,-89,52,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,4,1,-91,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,4,1,-92,56,{'WPA2/PSK'}
+0,e4:ca:12:95:53:38,MIWIFI_2G_dEw3,4,2,-85,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,4,2,-69,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,4,2,-72,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,4,2,-67,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,4,2,-82,1,{'WPA2/PSK'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,4,2,-87,1,{'WEP'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,4,2,-85,1,{'WPA/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,4,2,-82,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,4,2,-38,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,2,-39,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,4,2,-71,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,4,2,-82,1,{'WPA2/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,4,2,-81,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,4,2,-37,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,2,-38,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,4,2,-69,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,4,2,-63,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,4,2,-73,1,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,2,-38,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,2,-39,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,4,2,-69,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,4,2,-67,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,2,-39,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,2,-39,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,2,-39,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,2,-39,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,2,-42,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,4,2,-41,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,4,2,-40,1,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,4,2,-69,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,2,-46,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,4,2,-83,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,4,2,-82,5,{'OPN'}
+0,00:1a:2b:8e:ce:34,WLAN2745,4,2,-91,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,2,-46,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,4,2,-70,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,4,2,-69,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,2,-45,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,4,2,-84,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,4,2,-83,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,2,-45,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,4,2,-67,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,4,2,-69,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,2,-44,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,4,2,-84,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,4,2,-84,5,{'OPN'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,4,2,-76,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,2,-59,6,{'OPN'}
+0,bc:30:d9:78:a4:9e,MiFibra-A49C,4,2,-84,6,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,2,-46,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,4,2,-69,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,4,2,-83,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,4,2,-75,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,2,-59,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,4,2,-86,6,{'WPA2/PSK'}
+0,bc:30:d9:78:a4:9e,MiFibra-A49C,4,2,-88,6,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,4,2,-69,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,4,2,-86,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,4,2,-75,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,2,-58,6,{'OPN'}
+0,bc:30:d9:78:a4:9e,MiFibra-A49C,4,2,-86,6,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,4,2,-69,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,4,2,-85,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,2,-59,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,4,2,-46,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,4,2,-68,6,{'WEP'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,4,2,-76,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,4,2,-58,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,4,2,-68,6,{'WEP'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,4,2,-75,6,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,4,2,-76,6,{'WPA2/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,4,2,-77,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,4,2,-77,9,{'WPA/PSK'}
+0,50:7e:5d:67:53:ed,Orange-53EB,4,2,-71,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,50:7e:5d:67:53:ed,Orange-53EB,4,2,-71,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,4,2,-74,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,4,2,-74,36,{'WPA2/PSK'}
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,4,2,-93,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,4,2,-73,36,{'WPA2/PSK'}
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,4,2,-91,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,4,2,-62,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,4,2,-90,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,4,2,-62,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,4,2,-62,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,4,2,-62,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,4,2,-62,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ec:f4:51:55:0a:a2,,4,2,-81,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,4,2,-81,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,4,2,-81,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,4,2,-81,52,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,4,2,-93,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,4,2,-90,56,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,1,-50,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,1,-50,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,1,-65,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,5,1,-84,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,1,-83,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,1,-51,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,1,-51,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,1,-84,1,{'WEP'}
+0,94:6a:b0:9e:d2:b4,MiFibra-D2B2,5,1,-88,1,{'WPA2/PSK'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,1,-64,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,5,1,-83,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,1,-83,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,1,-51,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,1,-51,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,1,-65,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,5,1,-85,1,{'WEP'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,5,1,-80,1,{'WPA/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,1,-50,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,1,-51,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,1,-65,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,5,1,-81,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,1,-83,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,1,-51,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,1,-50,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,1,-84,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,1,-65,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,5,1,-85,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,1,-52,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,1,-66,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,1,-66,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,1,-65,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,1,-55,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,1,-59,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,1,-53,5,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,1,-53,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,1,-56,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,1,-57,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,1,-53,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,1,-70,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,1,-68,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,1,-53,5,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,1,-82,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,1,-58,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,1,-57,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,1,-52,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,1,-69,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,1,-69,5,{'OPN'}
+0,4c:1b:86:dd:47:ce,MiFibra-47CC,5,1,-80,6,{'WEP'}
+0,18:83:bf:9d:b2:7d,Orange-B27B,5,1,-86,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,1,-78,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,1,-80,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,5,1,-85,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,1,-71,6,{'OPN'}
+0,4c:1b:86:dd:47:ce,MiFibra-47CC,5,1,-79,6,{'WEP'}
+0,18:83:bf:9d:b2:7d,Orange-B27B,5,1,-87,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,1,-77,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,1,-79,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,5,1,-85,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,1,-70,6,{'OPN'}
+0,4c:1b:86:dd:47:ce,MiFibra-47CC,5,1,-81,6,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,1,-77,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,1,-76,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,5,1,-84,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,1,-70,6,{'OPN'}
+0,4c:1b:86:dd:47:ce,MiFibra-47CC,5,1,-81,6,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,1,-77,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,1,-80,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,1,-72,6,{'OPN'}
+0,4c:1b:86:dd:47:ce,MiFibra-47CC,5,1,-83,6,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,1,-79,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,1,-79,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,5,1,-85,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,1,-71,6,{'OPN'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,1,-82,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,5,1,-80,9,{'WEP'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,1,-81,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,5,1,-83,9,{'WEP'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,1,-79,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,1,-81,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,5,1,-82,9,{'WEP'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,1,-80,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,5,1,-83,9,{'WEP'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,5,1,-83,N/A,N/A
+0,34:57:60:94:8b:42,MOVISTAR_8B41,5,1,-80,11,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,5,1,-64,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,f4:06:8d:8c:ab:b1,devolo-bb1,5,1,-74,11,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,5,1,-81,36,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:e0,Navi Wifi 5G,5,1,-88,,"{'WPA2/PSK', 'WPA/PSK'}"
+0,b4:2a:0e:da:00:e0,Navi Wifi 5G,5,1,-87,,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,1,-68,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,5,1,-84,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,1,-68,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,5,1,-85,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,1,-68,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,5,1,-85,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ec:f4:51:55:0a:a2,,5,1,-89,52,{'WPA2/PSK'}
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,5,1,-92,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,5,1,-89,52,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,1,-82,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,1,-83,56,{'WPA2/PSK'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,2,-66,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,2,-83,1,{'WPA2/PSK'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,5,2,-85,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,2,-82,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,2,-53,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,2,-53,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,2,-82,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,2,-65,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,2,-85,1,{'WPA2/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,2,-82,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,2,-52,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,2,-52,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,2,-85,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,2,-66,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,2,-52,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,2,-52,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,2,-65,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,2,-53,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,2,-53,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,2,-65,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,2,-53,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,2,-54,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,2,-54,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,2,-67,1,{'WEP'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,2,-55,5,{'OPN'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,2,-67,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,2,-54,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,2,-55,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,2,-55,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,2,-53,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,2,-66,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,2,-65,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,2,-52,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,2,-56,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,2,-55,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,2,-53,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,2,-64,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,2,-63,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,2,-52,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,2,-55,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,2,-55,5,{'OPN'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,5,2,-85,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,2,-69,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,5,2,-92,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,2,-81,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,2,-72,6,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,5,2,-86,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,2,-69,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,2,-81,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,2,-72,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,2,-69,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,5,2,-86,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,2,-80,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,2,-72,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,2,-68,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,2,-81,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,2,-71,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,2,-68,6,{'OPN'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,2,-71,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,2,-69,6,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,2,-70,6,{'OPN'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,2,-85,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,5,2,-84,9,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,5,2,-74,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,5,2,-74,10,{'WEP'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,5,2,-82,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,2,-74,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,2,-75,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,2,-74,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,2,-74,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,2,-74,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,5,2,-91,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,5,2,-91,52,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a2,,5,2,-91,52,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,2,-82,56,{'WPA2/PSK'}
+0,dc:53:7c:04:19:ec,ONO41B1,5,3,-90,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,3,-78,1,{'WPA2/PSK'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,5,3,-79,1,{'WEP'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,5,3,-86,1,{'WPA/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,3,-78,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,3,-75,1,{'WEP'}
+0,e4:ca:12:95:53:38,MIWIFI_2G_dEw3,5,3,-82,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,3,-60,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,3,-78,1,{'WPA2/PSK'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,5,3,-86,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,5,3,-87,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,3,-75,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,3,-52,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,3,-52,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,3,-78,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,3,-60,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,3,-78,1,{'WPA2/PSK'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,5,3,-83,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,3,-78,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,3,-52,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,3,-52,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,3,-77,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,3,-60,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,3,-77,1,{'WPA2/PSK'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,5,3,-81,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,3,-53,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,3,-52,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,3,-78,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,3,-61,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,3,-78,1,{'WPA2/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,3,-79,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,3,-52,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,3,-52,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,3,-77,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,3,-61,1,{'WEP'}
+0,44:ff:ba:17:d3:34,MIWIFI_2G_WZG4,5,3,-89,3,{'WPA/PSK'}
+0,44:ff:ba:17:d3:34,MIWIFI_2G_WZG4,5,3,-87,3,{'WPA/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,3,-47,5,{'WEP'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,5,3,-84,5,{'WPA2/PSK'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,5,3,-85,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,3,-46,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,3,-68,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,3,-67,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,5,3,-87,5,{'WPA2/PSK'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,5,3,-89,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,3,-45,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,3,-60,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,3,-59,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,5,3,-87,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,3,-46,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,3,-69,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,3,-68,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,5,3,-86,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,3,-45,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,3,-59,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,3,-59,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,5,3,-84,5,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,3,-76,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,3,-45,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,3,-70,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,3,-69,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,3,-74,6,{'OPN'}
+0,f8:8e:85:dc:97:21,MOVISTAR_9720,5,3,-90,6,{'WPA/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,5,3,-82,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,3,-79,6,{'WEP'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,5,3,-83,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,3,-75,6,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,3,-75,6,{'OPN'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,3,-78,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,3,-78,9,{'WPA/PSK'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,5,3,-70,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,5,3,-69,10,{'WEP'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,5,3,-88,36,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:e0,Navi Wifi 5G,5,3,-80,,"{'WPA/PSK', 'WPA2/PSK'}"
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,5,3,-87,36,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:e0,Navi Wifi 5G,5,3,-84,,"{'WPA/PSK', 'WPA2/PSK'}"
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,5,3,-85,36,{'WPA2/PSK'}
+0,26:57:60:94:8b:4a,MOVISTAR_8B41,5,3,-86,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,5,3,-88,36,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:e0,Navi Wifi 5G,5,3,-85,,"{'WPA/PSK', 'WPA2/PSK'}"
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,5,3,-86,36,{'WPA2/PSK'}
+0,26:57:60:94:8b:4a,MOVISTAR_8B41,5,3,-85,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,3,-76,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,3,-76,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,3,-76,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,3,-76,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,3,-76,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,44:fe:3b:3e:dc:9a,,5,3,-88,56,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,5,3,-89,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,3,-88,56,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,5,3,-89,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,3,-89,56,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,5,3,-88,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,3,-89,56,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,5,3,-89,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,3,-89,56,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,5,3,-87,56,{'WPA2/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,4,-84,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,4,-54,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,4,-54,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,4,-79,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,4,-70,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,4,-76,1,{'WPA2/PSK'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,5,4,-90,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,4,-86,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,4,-53,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,4,-53,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,4,-81,1,{'WEP'}
+0,80:78:71:43:1c:98,MOVISTAR_1C97,5,4,-90,1,{'WPA2/PSK'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,4,-65,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,4,-77,1,{'WPA2/PSK'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,5,4,-85,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,4,-86,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,4,-52,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,4,-52,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,4,-80,1,{'WEP'}
+0,94:6a:b0:9e:d2:b4,MiFibra-D2B2,5,4,-80,1,{'WPA2/PSK'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,4,-62,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,4,-80,1,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,4,-51,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,4,-51,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,4,-80,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,4,-58,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,4,-79,1,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,4,-50,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,4,-50,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,4,-80,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,4,-56,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,4,-48,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,4,-45,1,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,4,-65,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,4,-62,5,{'OPN'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,4,-73,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,4,-76,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,4,-49,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,4,-70,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,4,-69,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,4,-48,5,{'WEP'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,4,-63,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,4,-76,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,4,-48,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,4,-69,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,4,-70,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,4,-48,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,4,-63,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,4,-62,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,4,-73,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,4,-47,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,4,-71,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,4,-70,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,4,-73,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,4,-76,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,4,-79,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,5,4,-83,6,{'WPA2/PSK'}
+0,e2:41:36:8f:97:b0,MOVISTAR_97B0,5,4,-89,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,4,-74,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,5,4,-85,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,4,-75,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,4,-79,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,4,-79,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,8c:0c:a3:37:e2:4c,MOVISTAR_E24C,5,4,-89,6,{'WPA/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,5,4,-82,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,4,-74,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,4,-77,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,4,-79,6,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,5,4,-81,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,4,-73,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,4,-49,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,4,-76,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,4,-80,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,4,-74,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,4,-49,5,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,4,-80,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,4,-76,6,{'WEP'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,5,4,-80,9,{'WEP'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,4,-79,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,4,-78,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,4,-75,9,{'WPA/PSK'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,5,4,-63,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,5,4,-84,36,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:e0,Navi Wifi 5G,5,4,-88,,"{'WPA/PSK', 'WPA2/PSK'}"
+0,b4:2a:0e:da:00:e0,Navi Wifi 5G,5,4,-91,,"{'WPA/PSK', 'WPA2/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,5,4,-84,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,4,-71,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,4,-71,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,4,-71,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ec:f4:51:55:0a:a2,,5,4,-90,52,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,4,-84,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,4,-83,56,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,5,-52,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,5,-53,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,5,-70,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,5,5,-91,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,5,5,-53,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,5,-53,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,5,-71,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,5,-54,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,5,-54,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,5,-71,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,5,-54,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,5,-54,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,5,-70,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,5,-54,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,5,-54,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,5,-70,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,5,-55,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,5,-55,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,5,-49,5,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,5,-49,5,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,5,-49,5,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,5,-49,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,5,-70,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,5,-68,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,5,-49,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,5,-67,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,5,-66,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,5,-48,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,5,-69,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,5,-69,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,5,-47,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,5,-67,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,5,-67,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,5,-48,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,5,-69,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,5,-68,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,5,-49,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,5,-83,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,5,-80,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,5,-79,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,5,-82,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,5,-80,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,5,-79,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,5,-76,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,5,-84,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,5,-79,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,5,-80,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,5,-74,6,{'OPN'}
+0,4c:1b:86:dd:47:ce,MiFibra-47CC,5,5,-88,6,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,5,-80,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,5,-80,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,5,-80,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,5,-76,6,{'OPN'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,5,-79,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,5,-80,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,5,-75,6,{'OPN'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,5,-80,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,5,5,-88,N/A,N/A
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,5,-84,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,5,-88,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,5,-86,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,5,5,-83,9,{'WEP'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,5,5,-72,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,5,5,-80,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,5,5,-78,10,{'WEP'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,5,5,-80,11,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,5,5,-70,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,5,5,-72,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,5,5,-84,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,5,-72,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,5,-73,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ec:f4:51:55:0a:a2,,5,5,-88,52,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,5,-84,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,5,-85,56,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,6,-66,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,6,-66,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,6,-74,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,6,-73,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,6,-63,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,6,-64,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,6,-78,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,6,-72,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,6,-88,1,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,6,-59,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,5,6,-61,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,5,6,-77,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,6,-71,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,5,6,-87,1,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,5,6,-58,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,6,-73,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,6,-71,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,5,6,-72,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,6,-59,5,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,6,-58,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,6,-62,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,6,-61,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,6,-57,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,6,-70,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,6,-70,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,6,-58,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,6,-61,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,6,-61,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,6,-58,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,6,-70,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,6,-69,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,6,-57,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,5,6,-63,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,5,6,-62,5,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,6,-76,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,6,-74,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,6,-76,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,6,-74,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,6,-80,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,6,-75,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,6,-78,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,6,-74,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,5,6,-59,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,6,-81,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,6,-75,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,6,-79,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,6,-74,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,6,-81,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,6,-76,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,6,-77,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,6,-74,6,{'OPN'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,5,6,-80,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,5,6,-75,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,5,6,-78,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,6,-74,6,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,5,6,-74,6,{'OPN'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,6,-78,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,6,-80,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,6,-80,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,5,6,-82,9,{'WPA/PSK'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,5,6,-67,10,{'WEP'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,5,6,-69,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,5,6,-70,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,5,6,-68,10,{'WEP'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,5,6,-68,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,5,6,-68,10,{'WEP'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,5,6,-68,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,04:a2:22:1e:74:16,MiFibra-7414,5,6,-69,11,{'WEP'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,5,6,-81,11,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,5,6,-80,11,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,6,-70,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,6,-70,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,5,6,-91,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,5,6,-71,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,44:fe:3b:3e:dc:9a,,5,6,-78,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,6,-78,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,5,6,-78,56,{'WPA2/PSK'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,7,1,-88,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,7,1,-70,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,7,1,-74,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,7,1,-84,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,7,1,-69,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,7,1,-69,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,7,1,-71,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,7,1,-74,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,7,1,-79,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,7,1,-68,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,7,1,-71,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,7,1,-74,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,7,1,-82,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,7,1,-68,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,7,1,-69,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,7,1,-71,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,7,1,-74,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,7,1,-81,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,7,1,-68,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,7,1,-68,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,7,1,-71,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,7,1,-70,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,7,1,-71,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,7,1,-62,5,{'WEP'}
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,7,1,-87,4,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ac:cf:85:52:bd:b5,_ONOWiFi,7,1,-65,5,{'OPN'}
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,7,1,-87,4,"{'WPA2/PSK', 'WPA/PSK'}"
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,7,1,-88,4,"{'WPA2/PSK', 'WPA/PSK'}"
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,7,1,-60,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,7,1,-66,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,7,1,-65,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,7,1,-86,5,{'WPA2/PSK'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,7,1,-87,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,7,1,-59,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,7,1,-61,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,7,1,-61,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,7,1,-86,5,{'WPA2/PSK'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,7,1,-86,5,{'WPA2/PSK'}
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,7,1,-82,4,"{'WPA2/PSK', 'WPA/PSK'}"
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,7,1,-60,5,{'WEP'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,7,1,-65,5,{'OPN'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,7,1,-89,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,7,1,-60,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,7,1,-61,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,7,1,-61,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,7,1,-87,5,{'WPA2/PSK'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,7,1,-89,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,7,1,-59,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,7,1,-65,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,7,1,-65,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,7,1,-85,5,{'WPA2/PSK'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,7,1,-87,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,7,1,-58,5,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,7,1,-82,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,7,1,-82,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,44:d9:e7:03:0b:81,MUKIACDAIKIN,7,1,-84,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,7,1,-76,6,{'OPN'}
+0,c8:b4:22:35:b5:2f,MOVISTAR_B520,7,1,-87,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,7,1,-84,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,7,1,-90,6,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ac:cf:85:52:bd:b5,_ONOWiFi,7,1,-66,5,{'OPN'}
+0,44:d9:e7:03:0b:81,MUKIACDAIKIN,7,1,-86,6,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,7,1,-88,6,{'WPA2/PSK'}
+0,56:d9:e7:03:0b:81,,7,1,-87,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,7,1,-77,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,7,1,-83,6,{'WPA2/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,7,1,-81,6,{'WPA2/PSK'}
+0,62:8d:36:6d:96:f3,MiFibra-96EF-24G,7,1,-87,9,{'WEP'}
+0,62:8d:36:6d:96:f3,MiFibra-96EF-24G,7,1,-86,9,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,7,1,-77,10,{'WEP'}
+0,44:fe:3b:3e:dc:99,MiFibra-DC97,7,1,-85,11,{'WEP'}
+0,50:7e:5d:67:53:ed,Orange-53EB,7,1,-69,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,50:7e:5d:67:53:ed,Orange-53EB,7,1,-68,11,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,7,1,-76,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,7,1,-75,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,7,1,-75,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,7,1,-74,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,7,1,-73,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:50:bc:22,MiFibra-BC20,8,1,-82,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,8,1,-73,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,8,1,-85,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,8,1,-71,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,8,1,-72,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,8,1,-84,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,8,1,-83,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,8,1,-72,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,8,1,-70,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,8,1,-73,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,8,1,-84,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,8,1,-70,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,8,1,-69,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,8,1,-71,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,8,1,-73,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,8,1,-81,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,8,1,-70,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,8,1,-70,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,8,1,-71,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,8,1,-72,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,8,1,-70,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,8,1,-69,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,8,1,-71,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,8,1,-73,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,8,1,-71,1,{'WEP'}
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,8,1,-83,4,"{'WPA/PSK', 'WPA2/PSK'}"
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,8,1,-86,4,"{'WPA/PSK', 'WPA2/PSK'}"
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,8,1,-85,4,"{'WPA/PSK', 'WPA2/PSK'}"
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,8,1,-85,4,"{'WPA/PSK', 'WPA2/PSK'}"
+0,d8:0d:17:bc:ea:bc,TP-Link_EABC,8,1,-85,4,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,8,1,-83,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,8,1,-60,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,8,1,-75,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,8,1,-75,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,8,1,-85,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,8,1,-60,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,8,1,-58,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,8,1,-59,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,8,1,-84,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,8,1,-60,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,8,1,-74,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,8,1,-74,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,8,1,-82,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,8,1,-60,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,8,1,-59,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,8,1,-59,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,8,1,-84,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,8,1,-61,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,8,1,-75,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,8,1,-74,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,8,1,-83,5,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,8,1,-84,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,8,1,-78,6,{'WPA2/PSK'}
+0,c8:b4:22:35:b5:2f,MOVISTAR_B520,8,1,-90,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,8,1,-80,6,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,8,1,-84,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,8,1,-77,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,8,1,-81,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,8,1,-84,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,8,1,-90,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,8,1,-84,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,8,1,-77,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,8,1,-81,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,8,1,-85,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,8,1,-82,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,8,1,-77,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,8,1,-81,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,8,1,-82,6,{'WPA2/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,8,1,-77,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,8,1,-80,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,8,1,-84,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,8,1,-85,6,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,8,1,-84,6,{'OPN'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,8,1,-86,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,8,1,-89,9,{'WPA/PSK'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,8,1,-81,11,{'WPA2/PSK'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,8,1,-76,10,{'WEP'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,8,1,-73,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,8,1,-77,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,8,1,-75,10,{'WEP'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,8,1,-71,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,8,1,-78,10,{'WEP'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,8,1,-75,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,8,1,-75,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,8,1,-75,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,8,1,-75,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,62:8d:36:d1:75:61,Invitado-755E,6,1,-69,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,6,1,-83,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,6,1,-67,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,6,1,-81,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,6,1,-82,1,{'WEP'}
+0,48:8d:36:50:bc:22,MiFibra-BC20,6,1,-88,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,6,1,-82,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,6,1,-67,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,6,1,-67,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,6,1,-85,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,6,1,-66,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,6,1,-83,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,6,1,-83,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,6,1,-67,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,6,1,-67,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,6,1,-67,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,6,1,-80,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,6,1,-67,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,6,1,-69,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,6,1,-68,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,6,1,-67,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,6,1,-69,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,6,1,-67,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,6,1,-72,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,6,1,-70,1,{'WEP'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,1,-50,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,6,1,-81,5,{'WPA2/PSK'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,6,1,-79,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,1,-60,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,1,-55,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,1,-54,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,6,1,-78,5,{'WPA2/PSK'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,6,1,-80,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,1,-59,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,1,-49,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,1,-49,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,6,1,-78,5,{'WPA2/PSK'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,6,1,-83,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,1,-58,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,1,-53,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,1,-55,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,6,1,-76,5,{'WPA2/PSK'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,6,1,-82,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,1,-58,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,1,-49,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,1,-49,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,6,1,-79,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,1,-59,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,1,-54,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,1,-55,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,6,1,-78,5,{'WPA2/PSK'}
+0,86:25:19:76:fd:d1,DIRECT-vHM2020 Series,6,1,-82,5,{'WPA2/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,1,-77,6,{'WPA2/PSK'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,6,1,-79,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,6,1,-77,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,1,-48,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,6,1,-78,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,1,-77,6,{'WPA2/PSK'}
+0,c8:b4:22:35:b5:2f,MOVISTAR_B520,6,1,-86,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,6,1,-80,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,6,1,-76,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,6,1,-78,6,{'OPN'}
+0,c8:b4:22:35:b5:2f,MOVISTAR_B520,6,1,-80,1,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,6,1,-83,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,6,1,-80,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,6,1,-77,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,1,-50,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,1,-48,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,6,1,-76,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,1,-76,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,6,1,-84,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,6,1,-79,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,6,1,-75,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,6,1,-78,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,1,-77,6,{'WPA2/PSK'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,6,1,-80,6,{'WPA2/PSK'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,6,1,-75,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,1,-49,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,6,1,-76,6,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,1,-76,6,{'WPA2/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,1,-77,6,{'WPA2/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,1,-75,6,{'WPA2/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,6,1,-79,9,{'WPA/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,6,1,-86,N/A,N/A
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,6,1,-79,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,6,1,-78,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,6,1,-79,9,{'WPA/PSK'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,6,1,-71,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,6,1,-72,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,6,1,-72,10,{'WEP'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,6,1,-62,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,f4:06:8d:8c:ab:b2,devolo-bb1,6,1,-91,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,6,1,-91,36,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,6,1,-72,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,6,1,-72,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,6,1,-72,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,6,1,-72,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,44:fe:3b:3e:dc:9a,,6,1,-91,56,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,6,1,-91,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,6,1,-90,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,6,1,-88,56,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,6,1,-90,56,{'WPA2/PSK'}
+0,62:8d:36:d1:75:61,Invitado-755E,6,2,-74,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,6,2,-75,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,6,2,-75,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,6,2,-75,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,6,2,-82,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,6,2,-76,1,{'WEP'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,6,2,-79,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,6,2,-75,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,6,2,-80,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,6,2,-75,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,6,2,-75,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,6,2,-75,1,{'WEP'}
+0,e4:3e:d7:e2:e9:70,MiFibra-E96E,6,2,-77,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,6,2,-77,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,2,-65,5,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,2,-63,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,2,-59,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,2,-58,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,6,2,-81,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,2,-63,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,2,-56,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,2,-56,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,6,2,-81,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,2,-63,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,2,-57,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,2,-59,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,2,-64,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,2,-55,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,2,-56,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,6,2,-81,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,2,-64,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,2,-60,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,2,-59,5,{'OPN'}
+0,18:d6:c7:45:07:66,JAZZTEL_l0l4,6,2,-81,5,{'WPA2/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,2,-77,6,{'WPA2/PSK'}
+0,d8:fb:5e:01:0c:6e,MOVISTAR_0C6D,6,2,-82,6,{'WPA2/PSK'}
+0,46:d9:e7:03:0b:81,LAB_POCKOK,6,2,-81,6,{'WPA2/PSK'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,6,2,-85,6,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,2,-56,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,2,-56,5,{'OPN'}
+0,44:d9:e7:03:0b:81,MUKIACDAIKIN,6,2,-82,6,{'WPA2/PSK'}
+0,56:d9:e7:03:0b:81,,6,2,-81,6,{'WPA2/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,2,-78,6,{'WPA2/PSK'}
+0,d8:fb:5e:01:0c:6e,MOVISTAR_0C6D,6,2,-80,6,{'WPA2/PSK'}
+0,46:d9:e7:03:0b:81,LAB_POCKOK,6,2,-81,6,{'WPA2/PSK'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,6,2,-84,6,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,2,-59,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,2,-60,5,{'OPN'}
+0,44:d9:e7:03:0b:81,MUKIACDAIKIN,6,2,-83,6,{'WPA2/PSK'}
+0,56:d9:e7:03:0b:81,,6,2,-84,6,{'WPA2/PSK'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,2,-78,6,{'WPA2/PSK'}
+0,d8:fb:5e:01:0c:6e,MOVISTAR_0C6D,6,2,-82,6,{'WPA2/PSK'}
+0,c8:b4:22:35:b5:2f,MOVISTAR_B520,6,2,-84,6,{'WEP'}
+0,46:d9:e7:03:0b:81,LAB_POCKOK,6,2,-86,6,{'WPA2/PSK'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,6,2,-85,6,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,2,-55,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,2,-55,5,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,2,-78,6,{'WPA2/PSK'}
+0,d8:fb:5e:01:0c:6e,MOVISTAR_0C6D,6,2,-81,6,{'WPA2/PSK'}
+0,46:d9:e7:03:0b:81,LAB_POCKOK,6,2,-83,6,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,2,-62,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,2,-61,5,{'OPN'}
+0,e2:41:36:84:12:f8,MOVISTAR_12F8,6,2,-78,6,{'WPA2/PSK'}
+0,d8:fb:5e:01:0c:6e,MOVISTAR_0C6D,6,2,-78,6,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,6,2,-65,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,6,2,-55,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,6,2,-55,5,{'OPN'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,6,2,-73,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,6,2,-72,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,6,2,-72,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,6,2,-73,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,6,2,-71,10,{'WEP'}
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,6,2,-72,10,{'WEP'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,6,2,-80,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,b0:7f:b9:a7:84:76,Navi Wifi 5G_2GEXT,6,2,-71,10,{'WEP'}
+0,44:fe:3b:3e:dc:99,MiFibra-DC97,6,2,-83,11,{'WEP'}
+0,50:7e:5d:67:53:ed,Orange-53EB,6,2,-77,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,6,2,-87,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,6,2,-86,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,6,2,-87,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,6,2,-86,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,a8:d3:f7:16:61:2c,Orange-612A,9,1,-76,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,1,-62,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,9,1,-75,1,{'WEP'}
+0,80:78:71:43:1c:98,MOVISTAR_1C97,9,1,-82,1,{'WPA2/PSK'}
+0,94:6a:b0:9e:d2:b4,MiFibra-D2B2,9,1,-75,1,{'WPA2/PSK'}
+0,48:8d:36:e2:00:79,NOMEROBESELWIFI,9,1,-88,1,{'WEP'}
+0,6a:8d:36:e2:00:7a,Invitado-0077,9,1,-83,1,{'WEP'}
+0,dc:53:7c:04:19:ec,ONO41B1,9,1,-84,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,1,-79,1,{'WPA2/PSK'}
+0,78:31:2b:dc:2f:a0,JAZZTEL_xdpk,9,1,-84,1,{'WEP'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,9,1,-81,1,{'WPA/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,9,1,-71,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,9,1,-62,1,{'WEP'}
+0,f8:08:4f:35:73:de,vodafone73D8,9,1,-82,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,04:a2:22:1e:1a:16,MiFibra-1A14,9,1,-76,1,{'WEP'}
+0,48:8d:36:e2:00:79,NOMEROBESELWIFI,9,1,-84,1,{'WEP'}
+0,6a:8d:36:e2:00:7a,Invitado-0077,9,1,-85,1,{'WEP'}
+0,dc:53:7c:04:19:ec,ONO41B1,9,1,-86,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,1,-77,1,{'WPA2/PSK'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,9,1,-84,1,{'WPA/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,9,1,-70,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,a8:d3:f7:16:61:2c,Orange-612A,9,1,-75,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,1,-63,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,1,-64,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,9,1,-74,1,{'WEP'}
+0,80:78:71:43:1c:98,MOVISTAR_1C97,9,1,-81,1,{'WPA2/PSK'}
+0,94:6a:b0:9e:d2:b4,MiFibra-D2B2,9,1,-74,1,{'WPA2/PSK'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,1,-73,1,{'WPA2/PSK'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,9,1,-80,1,{'WPA/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,9,1,-71,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,a8:d3:f7:16:61:2c,Orange-612A,9,1,-75,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,1,-61,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,1,-62,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,9,1,-75,1,{'WEP'}
+0,94:6a:b0:9e:d2:b4,MiFibra-D2B2,9,1,-74,1,{'WPA2/PSK'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,1,-74,1,{'WPA2/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,9,1,-71,1,"{'WPA2/PSK', 'WPA/PSK'}"
+0,a8:d3:f7:16:61:2c,Orange-612A,9,1,-74,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,1,-62,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,1,-61,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,1,-67,1,{'WEP'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,9,1,-79,1,{'WPA/PSK'}
+0,44:ff:ba:17:d3:34,MIWIFI_2G_WZG4,9,1,-86,3,{'WPA/PSK'}
+0,10:c2:5a:0a:c5:10,cucarachas enojadas 2G,9,1,-87,3,{'WPA2/PSK'}
+0,44:ff:ba:17:d3:34,MIWIFI_2G_WZG4,9,1,-86,3,{'WPA/PSK'}
+0,10:c2:5a:0a:c5:10,cucarachas enojadas 2G,9,1,-89,3,{'WPA2/PSK'}
+0,7a:6f:52:d6:ea:05,MIWIFI_5G_K3fy,9,1,-76,4,{'WPA/PSK'}
+0,d8:0d:17:55:98:10,TP-Link_9810,9,1,-89,4,"{'WPA2/PSK', 'WPA/PSK'}"
+0,7a:6f:52:d6:ea:05,MIWIFI_5G_K3fy,9,1,-75,4,{'WPA/PSK'}
+0,d8:0d:17:55:98:10,TP-Link_9810,9,1,-86,4,"{'WPA2/PSK', 'WPA/PSK'}"
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,1,-52,5,{'WEP'}
+0,9c:6f:52:d6:ea:07,MIWIFI_2G_K3fy,9,1,-78,4,{'WPA/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,9,1,-70,6,{'OPN'}
+0,00:1a:2b:8e:ce:34,WLAN2745,9,1,-80,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,1,-48,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,1,-67,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,9,1,-67,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,1,-49,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,1,-73,5,{'WPA2/PSK'}
+0,00:1a:2b:8e:ce:34,WLAN2745,9,1,-83,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,1,-49,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,1,-67,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,9,1,-66,5,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,9,1,-70,6,{'OPN'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,9,1,-67,6,{'OPN'}
+0,84:aa:9c:a9:3d:a7,MOVISTAR_3DA6,9,1,-81,6,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,9,1,-70,6,{'WPA2/PSK'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,9,1,-80,N/A,N/A
+0,48:8d:36:6d:96:f1,MiFibra-96EF,9,1,-84,9,{'WEP'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,9,1,-73,9,{'WPA/PSK'}
+0,8c:e1:17:e6:98:7a,MIWIFI_2G_Q47X,9,1,-88,13,"{'WPA2/PSK', 'WPA/PSK'}"
+0,8c:e1:17:e6:98:7a,MIWIFI_2G_Q47X,9,1,-84,13,"{'WPA2/PSK', 'WPA/PSK'}"
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,9,1,-80,36,{'WPA2/PSK'}
+0,26:57:60:94:8b:4a,MOVISTAR_8B41,9,1,-80,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,9,1,-86,36,{'WPA2/PSK'}
+0,f4:06:8d:8c:ab:b2,devolo-bb1,9,1,-88,36,{'WPA2/PSK'}
+0,e4:ca:12:8c:b0:1a,MIWIFI_5G_pLzb,9,1,-91,40,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,9,1,-75,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,9,1,-76,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,9,1,-75,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,9,1,-76,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,9,1,-75,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,9,1,-76,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,9,1,-74,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,9,1,-76,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,9,1,-75,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,9,1,-75,48,"{'WPA2/PSK', 'WPA/PSK'}"
+0,ec:f4:51:55:0a:a2,,9,1,-90,52,{'WPA2/PSK'}
+0,46:fe:3b:3e:dc:9a,MiFibra-DC97,9,1,-91,56,{'WPA2/PSK'}
+0,44:fe:3b:3e:dc:9a,,9,1,-90,56,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,2,-65,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,2,-65,1,{'WEP'}
+0,94:6a:b0:9e:d2:b4,MiFibra-D2B2,9,2,-82,1,{'WPA2/PSK'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,2,-75,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,2,-73,1,{'WPA2/PSK'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,9,2,-79,1,{'WPA/PSK'}
+0,e4:3e:d7:e9:54:c4,MiFibra-54C2,9,2,-84,1,{'WEP'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,9,2,-81,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,dc:53:7c:bb:5b:04,OFICINA_WIFI,9,2,-85,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,9,2,-64,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,2,-66,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,9,2,-80,1,{'WEP'}
+0,94:6a:b0:9e:d2:b4,MiFibra-D2B2,9,2,-86,1,{'WPA2/PSK'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,2,-74,1,{'WEP'}
+0,b4:2a:0e:fb:4e:cd,vodafone4EC8,9,2,-88,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,2,-73,1,{'WPA2/PSK'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,9,2,-78,1,{'WPA/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,9,2,-79,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,9,2,-69,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,2,-69,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,9,2,-79,1,{'WEP'}
+0,94:6a:b0:9e:d2:b4,MiFibra-D2B2,9,2,-84,1,{'WPA2/PSK'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,2,-72,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,2,-73,1,{'WPA2/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,9,2,-80,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,48:8d:36:d1:75:60,MiFibra-755E,9,2,-66,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,2,-66,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,2,-73,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,2,-69,1,{'WPA2/PSK'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,9,2,-78,1,{'WPA/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,2,-62,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,2,-62,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,2,-74,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,2,-76,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,2,-75,1,{'WEP'}
+0,44:ff:ba:17:d3:34,MIWIFI_2G_WZG4,9,2,-88,3,{'WPA/PSK'}
+0,44:ff:ba:17:d3:34,MIWIFI_2G_WZG4,9,2,-89,3,{'WPA/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,2,-46,5,{'WEP'}
+0,7a:6f:52:d6:ea:05,MIWIFI_5G_K3fy,9,2,-78,4,{'WPA/PSK'}
+0,7a:6f:52:d6:ea:05,MIWIFI_5G_K3fy,9,2,-69,4,{'WPA/PSK'}
+0,7a:6f:52:d6:ea:05,MIWIFI_5G_K3fy,9,2,-79,4,{'WPA/PSK'}
+0,9c:6f:52:d6:ea:07,MIWIFI_2G_K3fy,9,2,-79,4,{'WPA/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,2,-46,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,2,-77,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,9,2,-80,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,2,-45,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,2,-75,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,9,2,-73,5,{'OPN'}
+0,00:1a:2b:8e:ce:34,WLAN2745,9,2,-85,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,2,-45,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,2,-83,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,2,-45,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,2,-74,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,9,2,-74,5,{'OPN'}
+0,00:1a:2b:8e:ce:34,WLAN2745,9,2,-88,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,2,-46,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,2,-85,5,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,9,2,-84,6,{'WPA2/PSK'}
+0,f8:8e:85:dc:97:21,MOVISTAR_9720,9,2,-86,6,{'WPA/PSK'}
+0,4c:1b:86:dd:47:ce,MiFibra-47CC,9,2,-83,6,{'WEP'}
+0,d8:32:14:36:af:48,Orange-B27B,9,2,-83,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,18:83:bf:9d:b2:7d,Orange-B27B,9,2,-83,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,9,2,-70,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,9,2,-88,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,8c:0c:a3:37:e2:4c,MOVISTAR_E24C,9,2,-88,6,{'WPA/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,9,2,-80,6,{'WPA2/PSK'}
+0,98:97:d1:4b:68:b6,MOVISTAR_68B5,9,2,-90,6,{'WPA2/PSK'}
+0,e2:41:36:8f:97:b0,MOVISTAR_97B0,9,2,-87,6,{'WPA2/PSK'}
+0,4a:5f:99:6b:83:d1,DIRECT-d1-HP M181 LaserJet,9,2,-89,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,9,2,-69,6,{'OPN'}
+0,f8:8e:85:dc:97:21,MOVISTAR_9720,9,2,-90,6,{'WPA/PSK'}
+0,4c:1b:86:dd:47:ce,MiFibra-47CC,9,2,-83,6,{'WEP'}
+0,d8:32:14:36:af:48,Orange-B27B,9,2,-80,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,2,-47,5,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,9,2,-69,6,{'OPN'}
+0,4c:1b:86:dd:47:ce,MiFibra-47CC,9,2,-85,6,{'WEP'}
+0,f4:06:8d:8c:ab:b1,devolo-bb1,9,2,-73,11,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,9,2,-65,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,9,2,-65,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,8c:e1:17:e6:98:7a,MIWIFI_2G_Q47X,9,2,-89,13,"{'WPA/PSK', 'WPA2/PSK'}"
+0,8c:e1:17:e6:98:7a,MIWIFI_2G_Q47X,9,2,-88,13,"{'WPA/PSK', 'WPA2/PSK'}"
+0,26:57:60:94:8b:4a,MOVISTAR_8B41,9,2,-85,36,{'WPA2/PSK'}
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,9,2,-85,36,{'WPA2/PSK'}
+0,34:57:60:94:8b:4a,MOVISTAR_PLUS_8B41,9,2,-86,36,{'WPA2/PSK'}
+0,26:57:60:94:8b:4a,MOVISTAR_8B41,9,2,-85,36,{'WPA2/PSK'}
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,9,2,-75,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,9,2,-76,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,9,2,-69,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ec:f4:51:55:0a:a2,,9,2,-92,52,{'WPA2/PSK'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,2,-81,1,{'WPA2/PSK'}
+0,00:1a:2b:8d:de:d0,WLAN_E65F,9,2,-82,1,{'WPA/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,2,-64,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,3,-73,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,3,-78,1,{'WPA2/PSK'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,9,3,-76,1,{'WEP'}
+0,48:8d:36:14:1b:4d,MiFibra-1B4B,9,3,-81,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,3,-76,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,3,-78,1,{'WPA2/PSK'}
+0,44:ff:ba:21:b4:95,MIWIFI_2G_Knpb,9,3,-82,1,"{'WPA/PSK', 'WPA2/PSK'}"
+0,a8:d3:f7:16:61:2c,Orange-612A,9,3,-84,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,3,-62,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,3,-62,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,9,3,-78,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,3,-77,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,3,-74,1,{'WPA2/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,9,3,-82,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,3,-61,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,3,-62,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,9,3,-76,1,{'WEP'}
+0,48:8d:36:14:1b:4d,MiFibra-1B4B,9,3,-83,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,3,-78,1,{'WPA2/PSK'}
+0,a8:d3:f7:16:61:2c,Orange-612A,9,3,-81,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,3,-62,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,3,-63,1,{'WEP'}
+0,04:a2:22:1e:1a:16,MiFibra-1A14,9,3,-76,1,{'WEP'}
+0,78:31:2b:e1:87:ec,JAZZTEL_KfdA,9,3,-77,1,{'WEP'}
+0,94:6a:b0:5d:67:3a,MiFibra-6738,9,3,-78,1,{'WPA2/PSK'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,3,-63,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,3,-64,1,{'WEP'}
+0,48:8d:36:d1:75:60,MiFibra-755E,9,3,-63,1,{'WEP'}
+0,62:8d:36:d1:75:61,Invitado-755E,9,3,-64,1,{'WEP'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,3,-54,5,{'WEP'}
+0,7a:6f:52:d6:ea:05,MIWIFI_5G_K3fy,9,3,-79,4,{'WPA/PSK'}
+0,9c:6f:52:d6:ea:07,MIWIFI_2G_K3fy,9,3,-78,4,{'WPA/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,3,-54,5,{'WEP'}
+0,9c:6f:52:d6:ea:07,MIWIFI_2G_K3fy,9,3,-80,4,{'WPA/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,3,-55,5,{'WEP'}
+0,9c:6f:52:d6:ea:07,MIWIFI_2G_K3fy,9,3,-79,4,{'WPA/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,3,-54,5,{'WEP'}
+0,7a:6f:52:d6:ea:05,MIWIFI_5G_K3fy,9,3,-79,4,{'WPA/PSK'}
+0,9c:6f:52:d6:ea:07,MIWIFI_2G_K3fy,9,3,-79,4,{'WPA/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,3,-55,5,{'WEP'}
+0,7a:6f:52:d6:ea:05,MIWIFI_5G_K3fy,9,3,-80,4,{'WPA/PSK'}
+0,9c:6f:52:d6:ea:07,MIWIFI_2G_K3fy,9,3,-78,4,{'WPA/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,9,3,-62,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,3,-55,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,9,3,-78,6,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,3,-86,5,{'WPA2/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,3,-54,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,3,-81,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,9,3,-78,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,3,-54,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,3,-79,5,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,9,3,-64,6,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,3,-55,5,{'WEP'}
+0,ac:cf:85:52:bd:b4,vodafoneBDAC,9,3,-78,5,{'WPA2/PSK'}
+0,ac:cf:85:52:bd:b5,_ONOWiFi,9,3,-76,5,{'OPN'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,3,-55,5,{'WEP'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,9,3,-62,6,{'OPN'}
+0,bc:30:d9:78:a4:9e,MiFibra-A49C,9,3,-86,6,{'WEP'}
+0,d8:32:14:36:af:48,Orange-B27B,9,3,-82,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,18:83:bf:9d:b2:7d,Orange-B27B,9,3,-83,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,9,3,-73,6,{'WEP'}
+0,b4:2a:0e:da:00:de,Navi Wifi 2G,9,3,-86,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,8c:0c:a3:37:e2:4c,MOVISTAR_E24C,9,3,-86,6,{'WPA/PSK'}
+0,98:97:d1:4b:68:b6,MOVISTAR_68B5,9,3,-87,6,{'WPA2/PSK'}
+0,f8:8e:85:dc:97:21,MOVISTAR_9720,9,3,-78,6,{'WPA/PSK'}
+0,84:aa:9c:a9:3d:a7,MOVISTAR_3DA6,9,3,-87,6,{'WPA2/PSK'}
+0,d8:32:14:36:af:48,Orange-B27B,9,3,-84,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,18:83:bf:9d:b2:7d,Orange-B27B,9,3,-83,6,{'WPA2/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,9,3,-73,6,{'WEP'}
+0,c4:71:54:35:a4:60,Flybox_A460,9,3,-80,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,f8:8e:85:dc:97:21,MOVISTAR_9720,9,3,-77,6,{'WPA/PSK'}
+0,d8:32:14:36:af:48,Orange-B27B,9,3,-83,6,"{'WPA/PSK', 'WPA2/PSK'}"
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,9,3,-72,6,{'WEP'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,9,3,-79,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,9,3,-60,6,{'OPN'}
+0,f8:8e:85:dc:97:21,MOVISTAR_9720,9,3,-77,6,{'WPA/PSK'}
+0,44:fb:5a:b3:48:c0,DIGIFIBRA-PfRf,9,3,-58,5,{'WEP'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,9,3,-74,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,9,3,-74,6,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,9,3,-81,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,9,3,-61,6,{'OPN'}
+0,f8:8e:85:dc:97:21,MOVISTAR_9720,9,3,-77,6,{'WPA/PSK'}
+0,ec:f4:51:55:0a:a1,MiFibra-0A9F,9,3,-72,6,{'WEP'}
+0,98:97:d1:47:cd:75,MOVISTAR_CD74,9,3,-74,6,{'WPA2/PSK'}
+0,e2:41:36:50:0b:68,MOVISTAR_0B68,9,3,-79,6,{'WPA2/PSK'}
+0,78:11:dc:e6:d0:97,rockrobo-vacuum-v1_miapD097,9,3,-62,6,{'OPN'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,9,3,-80,9,{'WPA/PSK'}
+0,74:b5:7e:f2:70:fe,MIWIFI_2G_pvER,9,3,-81,9,{'WPA/PSK'}
+0,62:8d:36:6d:96:f3,MiFibra-96EF-24G,9,3,-88,9,{'WEP'}
+0,c8:b4:22:51:20:2f,MOVISTAR_2020,9,3,-82,9,{'WEP'}
+0,98:97:d1:0a:62:87,Paul Home,9,3,-84,11,{'WPA2/PSK'}
+0,00:4a:77:e8:1b:c6,TontoElQueLoLea-2.4G,9,3,-61,11,"{'WPA/PSK', 'WPA2/PSK'}"
+0,8c:e1:17:e6:98:7a,MIWIFI_2G_Q47X,9,3,-89,13,"{'WPA/PSK', 'WPA2/PSK'}"
+0,8c:e1:17:e6:98:7a,MIWIFI_2G_Q47X,9,3,-91,13,"{'WPA/PSK', 'WPA2/PSK'}"
+0,74:b5:7e:f2:70:ff,MIWIFI_5G_pvER,9,3,-85,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,00:4a:77:e8:1b:c7,TontoElQueLoLea-5G,9,3,-72,48,"{'WPA/PSK', 'WPA2/PSK'}"
+0,e6:f4:51:55:0a:a2,MiFibra-0A9F,9,3,-90,52,{'WPA2/PSK'}
+0,ee:f4:51:55:0a:a2,MiFibra-0A9F-5G,9,3,-90,52,{'WPA2/PSK'}
+0,94:6a:b0:5d:67:3b,,9,3,-92,52,{'WPA2/PSK'}
